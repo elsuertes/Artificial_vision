@@ -1,0 +1,5 @@
+/home/david/Escritorio/VA/p2/color_balance-students-2.8/color_balance/build/CMakeFiles/color_balance.dir
+/home/david/Escritorio/VA/p2/color_balance-students-2.8/color_balance/build/CMakeFiles/color_balance_test_common_code.dir
+/home/david/Escritorio/VA/p2/color_balance-students-2.8/color_balance/build/CMakeFiles/test.dir
+/home/david/Escritorio/VA/p2/color_balance-students-2.8/color_balance/build/CMakeFiles/edit_cache.dir
+/home/david/Escritorio/VA/p2/color_balance-students-2.8/color_balance/build/CMakeFiles/rebuild_cache.dir

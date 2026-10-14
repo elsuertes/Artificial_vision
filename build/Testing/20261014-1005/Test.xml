@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20261014-1005-Experimental"
+	Name="(empty)"
+	Generator="ctest-4.3.0"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="portatil"
+	OSRelease="7.2.9-200.fc44.x86_64"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Sat Oct  3 19:59:55 UTC 2026"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="186"
+	ModelName="13th Gen Intel(R) Core(TM) i5-13420H"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="8191"
+	TotalPhysicalMemory="15682"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="1079.432007"
+	>
+	<Testing>
+		<StartDateTime>Oct 14 12:05 CEST</StartDateTime>
+		<StartTestTime>1791972346</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 14 12:05 CEST</EndDateTime>
+		<EndTestTime>1791972346</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
